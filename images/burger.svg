@@ -1,0 +1,16 @@
+<svg width="30" height="23" viewBox="0 0 30 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="div.header-hamburger">
+<g id="::before">
+<mask id="path-1-inside-1_26_215" fill="white">
+<path d="M0 5.17719H29.3373V6.90291H0V5.17719Z"/>
+</mask>
+<path d="M0 6.90291H29.3373V3.45146H0V6.90291Z" fill="white" mask="url(#path-1-inside-1_26_215)"/>
+</g>
+<g id="::after">
+<mask id="path-3-inside-2_26_215" fill="white">
+<path d="M0 15.5316H29.3373V17.2573H0V15.5316Z"/>
+</mask>
+<path d="M0 17.2573H29.3373V13.8058H0V17.2573Z" fill="white" mask="url(#path-3-inside-2_26_215)"/>
+</g>
+</g>
+</svg>
